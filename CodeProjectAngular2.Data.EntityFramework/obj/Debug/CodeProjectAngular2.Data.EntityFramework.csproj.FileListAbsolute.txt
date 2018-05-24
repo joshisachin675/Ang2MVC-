@@ -1,0 +1,17 @@
+C:\Users\sachinj\Downloads\CodeProjectAngular2SourceCode\CodeProjectAngular2.Data.EntityFramework\bin\Debug\CodeProjectAngular2.Data.EntityFramework.dll.config
+C:\Users\sachinj\Downloads\CodeProjectAngular2SourceCode\CodeProjectAngular2.Data.EntityFramework\bin\Debug\CodeProjectAngular2.Data.EntityFramework.dll
+C:\Users\sachinj\Downloads\CodeProjectAngular2SourceCode\CodeProjectAngular2.Data.EntityFramework\bin\Debug\CodeProjectAngular2.Data.EntityFramework.pdb
+C:\Users\sachinj\Downloads\CodeProjectAngular2SourceCode\CodeProjectAngular2.Data.EntityFramework\bin\Debug\CodeProjectAngular2.Business.Entities.dll
+C:\Users\sachinj\Downloads\CodeProjectAngular2SourceCode\CodeProjectAngular2.Data.EntityFramework\bin\Debug\CodeProjectAngular2.Interfaces.dll
+C:\Users\sachinj\Downloads\CodeProjectAngular2SourceCode\CodeProjectAngular2.Data.EntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\sachinj\Downloads\CodeProjectAngular2SourceCode\CodeProjectAngular2.Data.EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sachinj\Downloads\CodeProjectAngular2SourceCode\CodeProjectAngular2.Data.EntityFramework\bin\Debug\System.Linq.Dynamic.dll
+C:\Users\sachinj\Downloads\CodeProjectAngular2SourceCode\CodeProjectAngular2.Data.EntityFramework\bin\Debug\CodeProjectAngular2.Business.Entities.pdb
+C:\Users\sachinj\Downloads\CodeProjectAngular2SourceCode\CodeProjectAngular2.Data.EntityFramework\bin\Debug\CodeProjectAngular2.Interfaces.pdb
+C:\Users\sachinj\Downloads\CodeProjectAngular2SourceCode\CodeProjectAngular2.Data.EntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\sachinj\Downloads\CodeProjectAngular2SourceCode\CodeProjectAngular2.Data.EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sachinj\Downloads\CodeProjectAngular2SourceCode\CodeProjectAngular2.Data.EntityFramework\obj\Debug\CodeProjectAngular2.Data.EntityFramework.csprojResolveAssemblyReference.cache
+C:\Users\sachinj\Downloads\CodeProjectAngular2SourceCode\CodeProjectAngular2.Data.EntityFramework\obj\Debug\CodeProjectAngular2.Data.EntityFramework.Migrations.init.resources
+C:\Users\sachinj\Downloads\CodeProjectAngular2SourceCode\CodeProjectAngular2.Data.EntityFramework\obj\Debug\CodeProjectAngular2.Data.EntityFramework.csproj.GenerateResource.Cache
+C:\Users\sachinj\Downloads\CodeProjectAngular2SourceCode\CodeProjectAngular2.Data.EntityFramework\obj\Debug\CodeProjectAngular2.Data.EntityFramework.dll
+C:\Users\sachinj\Downloads\CodeProjectAngular2SourceCode\CodeProjectAngular2.Data.EntityFramework\obj\Debug\CodeProjectAngular2.Data.EntityFramework.pdb

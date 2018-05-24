@@ -1,0 +1,7 @@
+C:\Users\sachinj\Downloads\CodeProjectAngular2SourceCode\CodeProjectAngular2.Interfaces\bin\Debug\CodeProjectAngular2.Interfaces.dll
+C:\Users\sachinj\Downloads\CodeProjectAngular2SourceCode\CodeProjectAngular2.Interfaces\bin\Debug\CodeProjectAngular2.Interfaces.pdb
+C:\Users\sachinj\Downloads\CodeProjectAngular2SourceCode\CodeProjectAngular2.Interfaces\bin\Debug\CodeProjectAngular2.Business.Entities.dll
+C:\Users\sachinj\Downloads\CodeProjectAngular2SourceCode\CodeProjectAngular2.Interfaces\bin\Debug\CodeProjectAngular2.Business.Entities.pdb
+C:\Users\sachinj\Downloads\CodeProjectAngular2SourceCode\CodeProjectAngular2.Interfaces\obj\Debug\CodeProjectAngular2.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\sachinj\Downloads\CodeProjectAngular2SourceCode\CodeProjectAngular2.Interfaces\obj\Debug\CodeProjectAngular2.Interfaces.dll
+C:\Users\sachinj\Downloads\CodeProjectAngular2SourceCode\CodeProjectAngular2.Interfaces\obj\Debug\CodeProjectAngular2.Interfaces.pdb

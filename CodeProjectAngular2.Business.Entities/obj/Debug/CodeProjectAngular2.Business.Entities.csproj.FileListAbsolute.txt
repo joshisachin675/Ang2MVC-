@@ -1,0 +1,5 @@
+C:\Users\sachinj\Downloads\CodeProjectAngular2SourceCode\CodeProjectAngular2.Business.Entities\bin\Debug\CodeProjectAngular2.Business.Entities.dll
+C:\Users\sachinj\Downloads\CodeProjectAngular2SourceCode\CodeProjectAngular2.Business.Entities\bin\Debug\CodeProjectAngular2.Business.Entities.pdb
+C:\Users\sachinj\Downloads\CodeProjectAngular2SourceCode\CodeProjectAngular2.Business.Entities\obj\Debug\CodeProjectAngular2.Business.Entities.csprojResolveAssemblyReference.cache
+C:\Users\sachinj\Downloads\CodeProjectAngular2SourceCode\CodeProjectAngular2.Business.Entities\obj\Debug\CodeProjectAngular2.Business.Entities.dll
+C:\Users\sachinj\Downloads\CodeProjectAngular2SourceCode\CodeProjectAngular2.Business.Entities\obj\Debug\CodeProjectAngular2.Business.Entities.pdb
